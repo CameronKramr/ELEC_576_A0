@@ -1,14 +1,16 @@
 ---
+title: Assignment 0
 Author: Cameron Kramr
 geometry: margin=1in
-title: Assignment 0
+header-includes: |
+	\usepackage{fancyhdr} 
+	\fancypagestyle{plain}{ 
+	\fancyhead[R]{ELEC 576 -- Fall 2023}
+	\fancyhead[C]{Cameron Kramr}
+	\fancyhead[L]{Assignment 0}
+	}
+	\pagestyle{plain}
 ---
-By: Cameron Kramr
-
-ELEC 576
-
-Fall 2023
-
 # Task 1:
 *In your terminal, run: ``` conda info```*
 
