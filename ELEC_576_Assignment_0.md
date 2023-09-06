@@ -1,0 +1,5 @@
+- Submit Report as a PDF file on Canvas
+- Must use #Anaconda
+	- #Anaconda is a high performance distribution of Python and R and including many of the most popular packages for data science
+- ## Submission Instructions
+	- Submit your work in PDF format. Providing intermediate and final results as well as any necessary code.
