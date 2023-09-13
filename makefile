@@ -1,5 +1,5 @@
 ReportName = Report_A0_CKK5
-NoteBooks = Task_2
+NoteBooks = Task_2 Task_3
 
 $(ReportName).pdf:$(ReportName).md
 	pandoc -s $(ReportName).md -o $(ReportName).pdf
